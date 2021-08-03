@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdpman
 - 👀 I’m interested in AWS/Azure Cloud
-- 🌱 I’m currently learning AWS and Azure
+- 🌱 I’m currently learning AWS, Azure, autoML, databricks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
