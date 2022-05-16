@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdpman
-- 👀 I’m interested in AWS/Azure Cloud
-- 🌱 I’m currently learning Azure, autoML, databricks, apache spark
-- 💞️ maybe I am back to solo TT
+- 👀 I’m interested in Azure Cloud
+- 🌱 I’m currently learning Azure, autoML, databricks, apache spark, synapse
+- 💞️ maybe I am alone
 - 📫 How to reach me ...
 
 <!---
