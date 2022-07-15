@@ -2,7 +2,7 @@
 - 👀 I’m interested in Azure Cloud
 - 🌱 I’m currently learning Azure, autoML, databricks, apache spark, synapse
 - 💞️ maybe I am alone
-- 📫 How to reach me ...
+- 📫 How to reach me ... email to me
 
 <!---
 mdpman2/mdpman2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
