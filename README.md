@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yskim
-- 👀 I’m interested in AI for example GPT-4o
+- 👀 I’m interested in AI for example GPT
 - 🌱 I’m currently learning Azure, AI
 - 💞️ Now I am interesting for LLM
 - 📫 How to reach me ... email to me
