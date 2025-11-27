@@ -1,4 +1,5 @@
 👋 Hi, I’m yskim
+
 I'm passionate about Artificial Intelligence, particularly Large Language Models (LLMs) like GPT.
 
 👀 I’m interested in exploring the capabilities and applications of AI.
@@ -8,6 +9,7 @@ I'm passionate about Artificial Intelligence, particularly Large Language Models
 💞️ My primary focus right now is on understanding and utilizing LLMs.
 
 📫 How to reach me:
+
 LinkedIn: www.linkedin.com/in/youshin-kim-b11640b6
 
 Blog: https://blog.naver.com/inter200_200
